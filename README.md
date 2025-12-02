@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, Je suis Noheila Ramdani</h1>
+<h1 align="center">Bonjour 👋, Je suis Noheila</h1>
 <h3 align="center">Étudiante en BUT MMI | Développeuse Web Full Stack | Passionnée par les dispositifs interactifs</h3>
 
 <p align="center">
