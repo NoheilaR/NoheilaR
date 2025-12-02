@@ -212,7 +212,7 @@ Application développée lors d'un marathon 24h à Vitry-le-François pour l'aff
   <a href="https://nramdani.fr" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" />
   </a>
-  <a href="https://linkedin.com/in/votre-profil" target="_blank">
+  <a href="https://linkedin.com/in/noheïla-ramdani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
