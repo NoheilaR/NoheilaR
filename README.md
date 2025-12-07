@@ -19,7 +19,7 @@ Je suis actuellement étudiante en **BUT MMI (Métiers du Multimédia et de l'In
 
 🌱 **Compétences transverses :** Intégration front-end, développement back-end, design graphique et gestion de projet
 
-📫 **Me contacter :** noheila.ramdani@hotmail.com
+📫 **Me contacter :** noheila-dev@hotmail.com
 
 🌐 **Portfolio :** [nramdani.fr](https://nramdani.fr)
 
@@ -211,9 +211,6 @@ Application développée lors d'un marathon 24h à Vitry-le-François pour l'aff
   </a>
   <a href="https://nramdani.fr" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/noheïla-ramdani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
 
