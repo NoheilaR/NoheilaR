@@ -206,7 +206,7 @@ Application développée lors d'un marathon 24h à Vitry-le-François pour l'aff
 ## 📫 Me contacter
 
 <p align="left">
-  <a href="mailto:noheila.ramdani@hotmail.com">
+  <a href="mailto:noheila-dev@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://nramdani.fr" target="_blank">
