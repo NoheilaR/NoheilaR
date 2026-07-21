@@ -11,9 +11,8 @@
 
 Je suis actuellement étudiante en **BUT MMI (Métiers du Multimédia et de l'Internet)** à l'IUT de Troyes, spécialisée en développement web et dispositifs interactifs. 
 
-🔭 **Actuellement :** Je recherche un stage de 16 semaines à partir d'avril 2026 dans le domaine du développement web.
-
 💼 **Expériences :**
+- Développeur Front-End chez Tadaaam Studio (Mars 2026 - Juillet 2026)
 - Développeur informatique chez BigBand Concept (Avril 2025 - Juin 2025)
 - Graphiste en Service Civique chez Eighteen Vierzon (Mai 2021 - Janvier 2022)
 
@@ -22,20 +21,6 @@ Je suis actuellement étudiante en **BUT MMI (Métiers du Multimédia et de l'In
 📫 **Me contacter :** noheila-dev@hotmail.com
 
 🌐 **Portfolio :** [nramdani.fr](https://nramdani.fr)
-
----
-
-## 🚀 Projets phares
-
-### 🎫 Site de Ticketing (React & Python)
-Plateforme de centralisation et gestion des demandes clients avec système d'authentification sécurisé et accès réservé.
-
-**Technologies :** React.js, Python (Flask), MySQL
-
-### ⏱️ Logiciel Événementiel (Windev)
-Application développée lors d'un marathon 24h à Vitry-le-François pour l'affichage en temps réel du chronomètre, équipes et partenaires. Contribution à un record du monde avec gestion des imprévus (météo, pannes).
-
-**Technologies :** Windev, WLangage
 
 ---
 
